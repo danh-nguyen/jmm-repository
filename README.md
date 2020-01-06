@@ -1,2 +1,2 @@
-# spring-repository-shopify
-Store shopify data using Spring repository
+# jmm-repository  
+The Just Monday Morning's repository 
